@@ -1,0 +1,103 @@
+body {
+  text-align: center;
+  font-size: 1.3em;
+  font-family: 'Fondamento', cursive;
+  margin: 0;
+  background-image: url(../images/sickneon.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+
+}
+
+li {
+  list-style-type: none;
+}
+
+hr {
+ border-color:hsla(40, 94%, 100%, 0.52);
+ border-style: dotted none none;
+ border-width: 8px;
+ border-spacing: 10px;
+ width: 10%;
+}
+
+.headings {
+  font-size: 3rem;
+color: #fff;
+}
+/* Navbar */
+.navbar {
+  position: absolute;
+  top: 35.8%;
+  right: 15%;
+  text-align: justify;
+  width: 150px;
+  height: 100px;
+  line-height: 2.4;
+
+}
+
+.nav-link {
+  padding-right: 4%;
+  position: relative;
+  text-align: left;
+}
+
+.nav-style {
+  text-decoration: none;
+  color: #fff;
+  transition-duration: 0.8s;
+  filter: blur(0.45px);
+  -webkit-filter: blur(0.45px);
+}
+
+.nav-style:hover {
+  color: #fcb72c;
+}
+/* Header */
+
+#introduction {
+height: 1000px;
+width:100vw;
+}
+
+.bighead {
+  color: #fff;
+  position: absolute;
+  left: 79.2%;
+  top: 27%;
+  font-size: 2.4rem;
+  filter: blur(0.55px);
+  -webkit-filter: blur(0.55px);
+}
+
+/*Talkybit*/
+#who {
+  margin-left: 62.5%;
+}
+.main-paras {
+  color: #E6B450;
+  padding: 2.5% 10%;
+  background-color: hsla(215, 23%, 30%, 0.20);
+  border-radius: 20px;
+  filter: blur(0.5px);
+  -webkit-filter: blur(0.5px);
+}
+
+/* Find */
+#find {
+  margin-left: 62.5%;
+}
+
+.googlemap {
+  padding-left: 30%;
+  padding-bottom: 40%;
+}
+
+/*ART*/
+
+.artcontainer {
+
+}
+/* Footer */
