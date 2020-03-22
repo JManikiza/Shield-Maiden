@@ -48,8 +48,8 @@ color: #fff;
   text-decoration: none;
   color: #fff;
   transition-duration: 0.8s;
-  filter: blur(0.45px);
-  -webkit-filter: blur(0.45px);
+  filter: blur(0.55px);
+  -webkit-filter: blur(0.55px);
 }
 
 .nav-style:hover {
@@ -68,8 +68,8 @@ width:100vw;
   left: 79.2%;
   top: 27%;
   font-size: 2.4rem;
-  filter: blur(0.55px);
-  -webkit-filter: blur(0.55px);
+  filter: blur(0.5px);
+  -webkit-filter: blur(0.5px);
 }
 
 /*Talkybit*/
